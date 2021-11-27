@@ -1,5 +1,17 @@
-# Projet GameOn
-1. Forkez ce repo ;
-2. Il est conseillé d'utiliser VisualStudio Code et vous pouvez utiliser Docker, mais ce n'est pas obligatoire ;
-3. Il n'y a aucune dépendance ;
-4. Vous ne devez utiliser que du CSS personnalisé et du JavaScript pur, sans jQuery, Bootstrap ou autre librairie.
+# GameOn-website-FR
+
+
+**PROJECT GOALS**:
+
+- Program in JavaScript
+
+**Useful links:**
+
+- [Live demo 🌍](https://benjaminlesne.github.io/GameOn-website-FR/)
+- [Repository 📖](https://github.com/BenjaminLesne/GameOn-website-FR)
+
+## License
+
+This project is part of the OpenClassrooms [Front-End Developer](https://openclassrooms.com/fr/paths/314-developpeur-front-end) course. The code is freely reusable, but the images / logo / figma mock-up do not belong to me.
+
+If you are also an OC student, you can freely draw inspiration from my work, but I obviously do not recommend copying parts of it.
